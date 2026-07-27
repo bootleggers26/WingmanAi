@@ -22,3 +22,9 @@ Reason
 
 Wingman assists people.
 It never pretends to be them.
+
+**_Проблема:_** #002
+
+Почему GitHub Issues?
+
+Потому что обсуждение должно жить рядом с кодом.
