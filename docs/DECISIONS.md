@@ -7,3 +7,18 @@
 **_Какие варианты были:_**
 
 **_Почему выбрали именно этот:_**
+
+***Дата:***27.07.26
+
+**_Проблема:_** #001
+
+Should Wingman automate conversations?
+
+Decision
+
+No.
+
+Reason
+
+Wingman assists people.
+It never pretends to be them.
