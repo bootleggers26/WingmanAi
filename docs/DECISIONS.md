@@ -8,23 +8,27 @@
 
 **_Почему выбрали именно этот:_**
 
+---
+
 ***Дата:***27.07.26
 
 **_Проблема:_** #001
 
-Should Wingman automate conversations?
+_***Should Wingman automate conversations?***_
 
-Decision
+_***Decision***_
 
-No.
+_No._
 
-Reason
+_***Reason***_
 
-Wingman assists people.
-It never pretends to be them.
+_Wingman assists people._
+_It never pretends to be them._
+
+---
 
 **_Проблема:_** #002
 
-Почему GitHub Issues?
+_**Почему GitHub Issues?**_
 
-Потому что обсуждение должно жить рядом с кодом.
+_Потому что обсуждение должно жить рядом с кодом._
